@@ -21,7 +21,7 @@ A simple yet powerful Android application that helps you track travel expenses. 
 
 ## Screenshots
 
-(´Trip_Logger_App\Trip Logger ss1.png`, `Trip_Logger_App\Trip Logger ss2.png`)
+(´[Trip_Logger_App\Trip Logger ss1.png](https://github.com/Jawad-Nazar/Trip_Logger_App/blob/main/Trip%20Logger%20ss1.png)`, `Trip_Logger_App\Trip Logger ss2.png`)
 
 ## How to Run
 
